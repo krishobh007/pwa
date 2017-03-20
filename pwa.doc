@@ -1,0 +1,19 @@
+npm install -g agular-cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+
+
+
+npm install -g agular-cli
+ng new webapp --mobile && cd webapp
+ng serve
+
+
+manifest
+spalsh screen
+push notification
+
+
+polymer
+material design
